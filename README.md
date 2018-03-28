@@ -23,6 +23,11 @@ Note that because the paint post process is the final render, the frame will not
 
 I had a problem figuring out where my motion blur was going wrong so I know there are bugs in there.
 
+Apparently my live demo doesn't work?? Again?? I have to submit before the deadline but here's proof that it actually works...
+
+![](proof.png)
+
+
 # Project 7: Deferred Renderer
 
 **Goal:** Learn an advanced rendering technique using the OpenGL pipeline and apply it to make artistic procedural post-processing effects.
